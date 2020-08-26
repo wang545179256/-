@@ -1,0 +1,82 @@
+body{
+    background-image:url("pictures/白色背景.jpg");
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* header */
+header{
+    margin-left:23%;
+}
+header a{
+    text-decoration: none;
+    color:black;
+}
+header picture img{
+    margin-left: 24%;
+    margin-top:-50px;
+    position:absolute;
+    border-radius: 50%;
+    width: 150px;
+    height: 190px;
+    border: 1px solid wheat;
+    box-shadow: gray 0 0 10px;
+}
+
+header .hide{
+    display: none;
+}
+
+header div{
+    text-align: right;
+    margin-right: 30%;
+}
+
+header div p{
+    color:gray;
+}
+/* section*/
+
+section{
+    margin-left:23%;
+    margin-top:30px;
+}
+section span{
+    color:gray;
+}
+
+section div {
+    padding: 3px;
+    margin: 10px;
+    border-radius: 5%;
+}
+
+section .div1{
+    background:black;
+    color: white;
+    width: 60%;
+}
+section .div2{
+    background:black;
+    color: white;
+    width: 30%;
+}
+section .div3{
+    background:black;
+    color: white;
+    width: 50%;
+}
+section .div4 li {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(68, 68, 68);
+}
+
+/* footer */
+footer{
+background:gray;
+}
+
+footer p{
+    text-align: center;
+}
+
+
+
